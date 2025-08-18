@@ -18,6 +18,7 @@ El sistema gestiona usuarios y documentos, con autenticación mediante JWT token
 
 El proyecto sigue una estructura modular, organizada en carpetas:
 
+```bash
 ├── config/ # Configuraciones generales (BD, JWT, etc.)
 ├── db/ # Conexión y modelos de base de datos
 ├── files/ # Carpeta donde se almacenan documentos
@@ -26,6 +27,7 @@ El proyecto sigue una estructura modular, organizada en carpetas:
 ├── tests/ # Pruebas unitarias e integración
 ├── .env # Variables de entorno
 └── app.py # Punto de entrada de la aplicación
+```
 
 # Gestión de Usuarios
 
