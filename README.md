@@ -1,4 +1,6 @@
-# Backend con Python + Flask
+# Backend con Python + Flask [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+![Image](https://github.com/user-attachments/assets/7682f623-8d48-4a60-b1c3-059e873e9737)
 
 Este proyecto es un backend en Python con Flask, diseñado bajo una arquitectura modular (no monolítica) para mantener la escalabilidad y organización del código.
 
